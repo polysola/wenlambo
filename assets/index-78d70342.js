@@ -9568,7 +9568,7 @@ const kp = () => {
                   ],
                 }),
                 d.jsx("img", {
-                  src: "https://wenblambos.vercel.app/logo.jpg",
+                  src: "https://wenlambo-mauve.vercel.app/logo.jpg",
                   alt: "house image",
                   className: "h-48 w-fit",
                 }),
